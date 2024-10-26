@@ -37,6 +37,6 @@ python text_to_speech.py
 ## Output Example
 
 ```bash
-Enter the text you want to convert to speech: Hello, welcome to Text-to-Speech Converter!
+Enter the text you want to convert to speech: Hi,How are you?
 The audio has been saved as 'sample.mp3'
 ```
