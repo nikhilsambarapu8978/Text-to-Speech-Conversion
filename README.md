@@ -18,20 +18,25 @@ To get started with Text-to-Speech Converter, clone or download the repository t
 
 ```bash
 git clone https://github.com/nikhilsambarapu8978/texttospeech
+```
+
 ## Dependencies
 
 Ensure Python is installed on your machine, then install the required dependencies by running the following command in the project directory:
 
 ```bash
 pip install gTTS
+```
 ## Running
 
 Run the main script:
 
 ```bash
 python text_to_speech.py
+```
 ## Output Example
 
 ```bash
 Enter the text you want to convert to speech: Hello, welcome to Text-to-Speech Converter!
 The audio has been saved as 'sample.mp3'
+```
